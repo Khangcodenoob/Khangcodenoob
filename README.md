@@ -2,9 +2,6 @@
 <h3 align="center">Một lập trình viên Frontend đầy nhiệt huyết đến từ Việt Nam</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Header Decoration"/>
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </p>
