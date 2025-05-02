@@ -5,7 +5,8 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Header Decoration"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Colored Lines"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
 </p>
 
 <p align="left">
@@ -24,12 +25,13 @@
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
   <a href="https://www.facebook.com/hazvu/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="30" width="30" style="border-radius:5px;" />
   </a>
   <a href="https://www.instagram.com/khangnehihi/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
 <p align="left">
