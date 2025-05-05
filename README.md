@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào 👋, tôi là KhangDC</h1>
-<h3 align="center">Một lập trình viên Frontend đầy nhiệt huyết đến từ Việt Nam</h3>
+<h3 align="center">Một lập trình viên Frontend cực kì lỏ đến từ Việt Nam</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
